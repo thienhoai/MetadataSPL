@@ -1,7 +1,7 @@
 {
   "name": "FlexFrog",
   "symbol": "FLEXFROG",
-  "uri": "https://github.com/thienhoai/MetadataSPL/blob/main/FlexFrog.json",
+  "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/thienhoai/MetadataSPL/blob/main/FlexFrog.png",
+        "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/FlexFrog.png",
         "type": "image/png"
       }
     ],
