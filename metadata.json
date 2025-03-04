@@ -1,0 +1,31 @@
+{
+  "name": "FlexFrog",
+  "symbol": "FLEXFROG",
+  "uri": "https://github.com/thienhoai/MetadataSPL/blob/main/FlexFrog.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "6hMgjwvFUBjWPmRweKGxkLwVxE4p8ZHNBa468RjpZ1YF",
+      "share": 100
+    }
+  ],
+  "collection": {
+    "name": "FlexFrog Collection",
+    "family": "FlexFrog Meme Tokens"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/thienhoai/MetadataSPL/blob/main/FlexFrog.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6hMgjwvFUBjWPmRweKGxkLwVxE4p8ZHNBa468RjpZ1YF",
+        "share": 100
+      }
+    ]
+  }
+}
