@@ -1,7 +1,7 @@
 {
   "name": "FlexFrog",
   "symbol": "FLEXFROG",
-  "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/FlexFrog.png",
+  "image": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/FlexFrog.png",
   "seller_fee_basis_points": 0,
   "creators": [
     {
