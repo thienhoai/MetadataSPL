@@ -1,7 +1,7 @@
 {
-  "name": "FlexFrog",
-  "symbol": "FLEXFROG",
-  "image": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/FlexFrog.png",
+  "name": "codpi",
+  "symbol": "CODPI",
+  "image": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/codpi.png",
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -10,13 +10,13 @@
     }
   ],
   "collection": {
-    "name": "FlexFrog Collection",
-    "family": "FlexFrog Meme Tokens"
+    "name": "codpi Collection",
+    "family": "codpi Meme Tokens"
   },
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/metadata.json",
+        "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/data_codpi.json",
         "type": "image/png"
       }
     ],
