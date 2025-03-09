@@ -1,0 +1,31 @@
+{
+  "name": "codpi",
+  "symbol": "CODPI",
+  "image": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/codpi.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "6hMgjwvFUBjWPmRweKGxkLwVxE4p8ZHNBa468RjpZ1YF",
+      "share": 100
+    }
+  ],
+  "collection": {
+    "name": "Codpi",
+    "family": "Codpi Meme Tokens"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/data_codpi.json",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6hMgjwvFUBjWPmRweKGxkLwVxE4p8ZHNBa468RjpZ1YF",
+        "share": 100
+      }
+    ]
+  }
+}
