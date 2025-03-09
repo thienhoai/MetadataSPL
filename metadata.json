@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/data_codpi.json",
+        "uri": "https://raw.githubusercontent.com/thienhoai/MetadataSPL/main/metadata.json",
         "type": "image/png"
       }
     ],
